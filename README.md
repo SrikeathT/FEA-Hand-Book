@@ -2,6 +2,8 @@
 
 An interactive, single-page reference document for Finite Element Analysis workflows in ANSYS Workbench — built entirely with vanilla HTML, CSS, and JavaScript.
 
+https://srikeatht.github.io/FEA-Hand-Book/
+
 ## Overview
 
 This handbook consolidates 23 FEA workflow sections into a structured, visually navigable reference — covering everything from static structural and modal analysis to rotor dynamics, fatigue, and topology optimization.
